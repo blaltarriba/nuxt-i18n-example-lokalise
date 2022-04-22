@@ -8,6 +8,9 @@
       <h2 class="subtitle">
         {{ $t('homepage.subtitle') }}
       </h2>
+      <h3 class="subtitle2">
+        {{ $t('homepage.subtitle2') }}
+      </h3>
       <div class="links">
         <a href="https://github.com/nuxt-community/nuxt-i18n" target="_blank" class="button--grey">GitHub</a>
       </div>
