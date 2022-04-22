@@ -1,8 +1,8 @@
 export default {
-  "home2": "",
-  "posts2": "",
-  "about2": "",
-  "homepage2": {
-    "subtitle2": ""
+  "key1": "",
+  "key2": "",
+  "key3": "",
+  "key4": {
+    "key5": ""
   }
 };

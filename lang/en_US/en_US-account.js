@@ -1,8 +1,8 @@
 export default {
-  "home": "Homepage",
-  "posts": "Posts",
-  "about": "About us",
-  "homepage": {
-    "subtitle": "nuxt-i18n demo"
+  "key1": "Homepage",
+  "key2": "Posts",
+  "key3": "About us",
+  "key4": {
+    "key5": "nuxt-i18n demo"
   }
 };
