@@ -4,3 +4,5 @@ var translations = {
     "about": "About us",
     "homepage.subtitle": "nuxt-i18n demo"
 };
+
+export default translations;
