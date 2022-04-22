@@ -1,5 +1,5 @@
 export default {
-  "key1": "Homepage",
+  "home": "Homepage",
   "key2": "Posts",
   "key3": "About us",
   "key4": {
