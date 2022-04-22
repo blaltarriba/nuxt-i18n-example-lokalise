@@ -1,0 +1,14 @@
+{
+    "home": {
+        "translation": "Homepage"
+    },
+    "posts": {
+        "translation": "Posts"
+    },
+    "about": {
+        "translation": "About us"
+    },
+    "homepage.subtitle": {
+        "translation": "nuxt-i18n demo"
+    }
+}
