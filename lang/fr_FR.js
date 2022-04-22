@@ -1,8 +1,8 @@
-export default {
-  "home": "",
-  "posts": "",
-  "about": "",
-  "homepage": {
-    "subtitle": ""
-  }
-}
+var translations = {
+    "home": "Accueil",
+    "posts": "Articles",
+    "about": "À propos",
+    "homepage.subtitle": "Démo de nuxt-i18n"
+};
+
+export default translations;
