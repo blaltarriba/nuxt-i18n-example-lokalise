@@ -1,8 +1,8 @@
 export default {
-  "home": "Accueil",
-  "posts": "Articles",
-  "about": "À propos",
+  "home": "",
+  "posts": "",
+  "about": "",
   "homepage": {
-    "subtitle": "Démo de nuxt-i18n"
+    "subtitle": ""
   }
 };
