@@ -1,3 +1,3 @@
 export default {
-  "key32": "Posts",
+  "key32": "Posts"
 };
