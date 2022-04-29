@@ -1,8 +1,7 @@
 export default {
-  "home": "",
-  "posts": "",
-  "about": "",
-  "homepage": {
-    "subtitle": ""
-  }
+    "home": "",
+    "about": "",
+    "homepage": {
+        "subtitle": ""
+    }
 };
