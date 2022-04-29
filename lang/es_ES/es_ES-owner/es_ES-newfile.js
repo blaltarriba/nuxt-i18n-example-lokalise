@@ -1,3 +1,3 @@
 export default {
-  "key42": ""
+    "key42": "ES other posts"
 };
